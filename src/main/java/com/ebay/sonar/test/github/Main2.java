@@ -1,5 +1,9 @@
 package com.ebay.sonar.test.github;
 
+/**
+ * Foo
+ *
+ */
 public class Main2 {
 
   public int simpleMethod() {
